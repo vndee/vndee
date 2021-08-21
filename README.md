@@ -5,3 +5,6 @@
 </a>
  -->
 The best way to reach me is through [Facebook](https://www.facebook.com/vndee.huynh), [Email](mailto:vndee.huynh@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vndee/).
+
+![](https://github.com/tranHieuDev23/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/tranHieuDev23/github-stats/blob/master/generated/languages.svg)
